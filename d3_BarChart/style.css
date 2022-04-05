@@ -1,0 +1,19 @@
+rect {
+  fill:#80a2a7
+}
+rect:hover{
+  fill:#000000
+}
+
+#main {
+  margin: auto;
+  text-align: center;
+}
+
+#title {
+  margin: auto;
+  text-align: center;
+  background-color:#80a2a7;
+  display:table;
+  padding: 10px;
+}
